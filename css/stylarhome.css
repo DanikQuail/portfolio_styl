@@ -1,0 +1,106 @@
+.homegalerie{
+    padding-left: 24%;
+    font-family: Roboto, sans-serif;
+    padding-top: 10%;
+    font-size: 60px;
+    text-shadow: -1px 1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111;
+}
+.homesocial{
+    color: white;
+    font-family: Roboto, sans-serif;
+    text-shadow: -1px 1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111;
+    padding-left: 24%;
+    padding-top: 20%;
+    font-size: 60px;
+}
+.backgroundhome{
+    height: 100%;
+    width: 84%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-left: 16%;
+    z-index: -1;
+    background-image: url("../images/background_homejpg.jpg");
+}
+.bannerhome2{
+    height: 30%;
+    width: 84%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: 52.1%;
+    z-index: -1;
+    background-image: url("../images/banners/banner_home.png");
+}
+.backgroundtexthome{
+    margin-left:24%;
+    padding-top: 300px;
+    color: white;
+    text-shadow: -1px 1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111;
+    font-size: 60px;
+    font-family: Roboto, sans-serif;
+}
+.homebannertext{
+    padding-top: 38.5%;
+    padding-left: 15%;
+    font-size: 60px;
+    font-family: "Fira Code Medium", sans-serif;
+    text-shadow: -1px 1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111,
+    1px -1px 0 #111,
+    1px 1px 0 #111;
+}
+.bannerhomesocial{
+    height: 30%;
+    width: 84%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: 52.1%;
+    z-index: -1;
+    background-image: url("../images/banners/banner_social.png");
+}
+.bannerhomegallery{
+    height: 30%;
+    width: 84%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: 67.7%;
+    z-index: -1;
+    background-image: url("../images/banners/banner_gallery.png");
+}
+
+
+.bannerhomesocial{
+    height: 30%;
+    width: 84%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: 83.3%;
+    z-index: -1;
+    background-image: url("../images/banners/banner_social.png");
+}
